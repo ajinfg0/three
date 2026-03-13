@@ -33,4 +33,4 @@ console.log(fruties.length);
 //Array Map(Transform Array)
 
 let fruties2 =  ["Apple","Orange","Pineapple"];
-console.log(fruties2.length);
+console.log(fruties2.length);knjknjk
